@@ -1,1 +1,3 @@
 Quiz?Master/Assets/**/*.shader linguist-generated
+Quiz?Master/Assets/**/*.hlsl linguist-generated
+Quiz?Master/Assets/**/*.cginc linguist-generated
